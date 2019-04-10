@@ -12,3 +12,4 @@ import:
 - package: gopkg.in/mgo.v2
   subpackages:
   - bson
+- package: github.com/dxtxteam/gogo-service/service
